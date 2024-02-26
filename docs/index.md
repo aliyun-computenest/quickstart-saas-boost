@@ -90,7 +90,7 @@ Fork当前仓库到您的个人仓库
 
 #### 4. **创建计算巢服务实例**
 ECS部署方式
-1. 访问[计算巢控制台](https://computenest.console.aliyun.com/)选择SaaS Boost一键部署服务
+1. 访问[计算巢控制台](https://computenest.console.aliyun.com/)选择[SaaS Boost一键部署服务](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-fd1aec438c974828bb7b)
 2. 按照提示填写部署参数
     1. 选择要部署的服务。
     2. 选择部署地域
